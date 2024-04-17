@@ -1,2 +1,0 @@
-# HoloWibes
-GPGPU project
